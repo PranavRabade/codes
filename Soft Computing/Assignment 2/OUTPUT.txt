@@ -1,0 +1,8 @@
+Training Phase Initiated : 
+No. Of Correct Classifications :  32100  / 58200
+Accuracy  55.154639175257735
+
+Initializing Test Phase : 
+Testing Phase Executed
+Correct Classifications :  107.0  / 194
+Accuracy :  55.154639175257735
